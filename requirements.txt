@@ -1,0 +1,15 @@
+streamlit
+youtube-transcript-api
+langchain-community
+langchain-openai
+langchain-core
+langchain-google-genai
+langchain-huggingface
+faiss-cpu
+tiktoken
+sentence-transformers
+openai
+google-generativeai
+transformers
+torch
+accelerate
